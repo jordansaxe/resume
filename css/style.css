@@ -1,0 +1,14 @@
+.intro {
+	padding-top: 10px;
+}
+
+.profile_picture .img-circle {
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+.intro .headline {
+	margin-left: 210px;
+	max-width: 610px;
+}
